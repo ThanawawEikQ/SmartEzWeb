@@ -1,8 +1,8 @@
 #root {
-  max-width: 1280px;
   margin: 0 auto;
   text-align: center;
-  padding: 1rem;
+  position: relative;
+  width: 100%;
 }
 
 .battery {
